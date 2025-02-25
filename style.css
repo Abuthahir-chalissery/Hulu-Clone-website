@@ -1,0 +1,21 @@
+
+
+
+@font-face {
+    font-family: 'graphik';
+    src: url('Font/Graphik-Medium-Trial.otf');
+    /* src: url('Font/Graphik-BlackItalic-Trial.otf'); */
+    font-weight: normal;
+}
+
+.main-bg{
+    background: url("images/main-bg.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.second-section{
+    background: linear-gradient(318.68deg, #0f495c, #0d3640 49.72%, #08141f);
+}
