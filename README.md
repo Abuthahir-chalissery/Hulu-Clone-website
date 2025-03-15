@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎬 Hulu Website Clone
 
 ## 🌟 Project Overview
@@ -52,4 +51,3 @@ Tailwind CSS is a game-changer for modern web development because it offers:
 
 =======
 
->>>>>>> 7e3ba653cce39511522a4764ff1806b6c02ce64c
